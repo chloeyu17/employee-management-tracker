@@ -1,4 +1,4 @@
-use employee_db;
+use employees;
 
 insert into department (name) values 
 ("Human Resources"),

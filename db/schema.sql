@@ -1,8 +1,8 @@
-drop database if exists employee_db;
+drop database if exists employees;
 
-create database employee_db;
+create database employees;
 
-use employee_db;
+use employees;
 
 create table employee (
 id int not null primary key auto_increment,
